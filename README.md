@@ -1,6 +1,6 @@
 # Explainable sequence-aware deep learning based decadal shoreline modelling in the Southern Baltic until 2050
 
-This repository provides an **example CSV dataset** that demonstrates the structure, variables, and formatting required to replicate the shoreline-change forecasting framework presented in the associated research article. The example dataset is a **representative subset**.
+This repository provides **detailed description** that demonstrates the structure, variables, and formatting required to replicate the shoreline-change forecasting framework presented in the associated research article. The example dataset is a **representative subset**.
 
 ---
 
